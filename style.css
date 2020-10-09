@@ -1,0 +1,39 @@
+:root{
+    --primary: #f2a07b;
+    --bg: #7d0633;
+    --text: #fbdcc4;
+}
+
+body{
+    text-align: center;
+    margin: 2rem auto;
+    background-color: var(--bg);
+    color: var(--text);
+}
+
+.square{
+    width: 50px;
+    background: var(--primary);
+    display: inline-block;
+    padding: 40px;
+    margin: 5px;
+    font-size: 60px;
+    color: var(--primary);
+    text-align: center;
+    cursor: pointer;
+}
+
+.player, .winner{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: var(--primary);
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
