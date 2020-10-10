@@ -25,18 +25,21 @@
         <div id="9" class="square">-</div>
     </div>
 
-    <div class="players">
+    <div class="player">
         <label>Jogador: </label>
-        <label id="jogador-selecionado"></label>
+        <label id="player-selected"></label>
     </div>
 
-    <div class="winner">
-        <label>Vencedor: </label>
-        <label id="winner"></label>
-    </div>
+        <button onclick="restart()">Reiniciar</button>
 
-    <div>
-        <button>Reiniciar</button>
+
+    <div class="modal">
+        <img src="assets/gameover.jpg" alt="gameover">
+
+        <div class="winner">
+            <label>Vencedor: </label>
+            <label id="winner-selected"></label>
+        </div>
     </div>
 
     <script src="script.js"></script>

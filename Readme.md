@@ -1,11 +1,6 @@
 <h1 align="center">Jogo da velha</h1>
 
 <p align="center">
-  <img src="jogo-da-velha.png" width=200>
-</p>
-
-
-<p align="center">
   <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
   
   <a href="license.md">
@@ -25,7 +20,7 @@ ___
 ___
 
 <p align="center">
-  <img src="under-construction.jpg" width="400">
+  <img src="assets/game.png" width="400">
 </p>
 
 <br>
@@ -36,6 +31,8 @@ ___
  Construção do jogo da velha no Bootcamp da Digial Innovation One, utilizando somente HTML para estruturar nosso site, CSS para estilizar e dar vida a ele, e Javascript para criarmos toda suas interações, desde a escolha do jogador, efetivar uma jogada e dar um vencedor ao jogo. 
  
  Serão abordados conceitos básicos sobre as linguagens e como podemos criar projetos bem simples sem muito trabalho, apenas utilizando suas funções básicas e uma pouco de lógica!
+
+ Além do que foi dado no tutorial, acrescentei um modal para GameOver.
 
 <br>
 <br>
