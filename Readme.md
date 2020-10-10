@@ -1,6 +1,10 @@
 <h1 align="center">Jogo da velha</h1>
 
 <p align="center">
+  <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="300" heigth="300">
+</p>
+
+<p align="center">
   <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
   
   <a href="license.md">
